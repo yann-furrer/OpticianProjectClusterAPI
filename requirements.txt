@@ -1,0 +1,11 @@
+pandas==2.2.3
+psycopg2-binary==2.9.10
+joblib==1.4.2
+fastapi==0.115.6
+fastapi-cli==0.0.6
+typing_extensions==4.12.2
+schedule==1.2.2
+scikit-learn==1.6.1
+urllib3==2.3.0
+uvicorn==0.32.1
+uvloop==0.21.0
